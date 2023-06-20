@@ -11,9 +11,8 @@ My name is Serge, but you can also call me Goos.
   - [Discord server](https://discord.gg/gRCcCUZ5px)
 
 ## Languages
-- JavaScript
-- TypeScript
-- Python
 - (learning) Rust
+- TS/JS
+- Python
   
 <img src="https://komarev.com/ghpvc/?username=MrSerge01" alt="Profile Views" />
