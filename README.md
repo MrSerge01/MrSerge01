@@ -6,6 +6,7 @@ My name is Serge, but you can also call me Goos.
   - Notabena - The FOSS note-taking app.
     - [Old repository](https://github.com/The-Notabena-Organization/notabena-public-archive)
     - [New repository](https://github.com/NotabenaDesu/Notabena)
+    - [Discord server](https://discord.gg/vZRNHVCKJj)
   - Sokora - The multipurpose Discord bot.
     - [Organisation](https://github.com/SokoraDesu)
     - [Discord server](https://discord.gg/c6C25P4BuY)
